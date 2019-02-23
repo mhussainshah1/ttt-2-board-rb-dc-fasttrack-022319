@@ -1,4 +1,4 @@
-RSpec.configure do |config|
+learn testRSpec.configure do |config|
   config.order = :default
 end
 
